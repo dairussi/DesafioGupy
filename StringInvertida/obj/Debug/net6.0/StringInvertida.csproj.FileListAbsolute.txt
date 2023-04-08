@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/StringInvertida
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/StringInvertida.deps.json
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/StringInvertida.runtimeconfig.json
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/StringInvertida.dll
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/ref/StringInvertida.dll
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/bin/Debug/net6.0/StringInvertida.pdb
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.AssemblyInfo.cs
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.dll
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/ref/StringInvertida.dll
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.pdb
+/home/daianarussi/Documentos/DesafioGupy/StringInvertida/obj/Debug/net6.0/StringInvertida.genruntimeconfig.cache

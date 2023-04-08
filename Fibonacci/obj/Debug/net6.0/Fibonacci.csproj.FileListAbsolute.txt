@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/Fibonacci
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/ref/Fibonacci.dll
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/daianarussi/Documentos/DesafioGupy/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache

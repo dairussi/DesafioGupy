@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/RepresentatividadeDistribuidora
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/RepresentatividadeDistribuidora.deps.json
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/RepresentatividadeDistribuidora.runtimeconfig.json
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/RepresentatividadeDistribuidora.dll
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/ref/RepresentatividadeDistribuidora.dll
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/bin/Debug/net6.0/RepresentatividadeDistribuidora.pdb
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.AssemblyInfo.cs
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.dll
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/ref/RepresentatividadeDistribuidora.dll
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.pdb
+/home/daianarussi/Documentos/DesafioGupy/RepresentatividadeDistribuidora/obj/Debug/net6.0/RepresentatividadeDistribuidora.genruntimeconfig.cache

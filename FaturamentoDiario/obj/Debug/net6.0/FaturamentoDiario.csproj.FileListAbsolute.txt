@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/FaturamentoDiario
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/FaturamentoDiario.deps.json
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/FaturamentoDiario.runtimeconfig.json
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/FaturamentoDiario.dll
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/ref/FaturamentoDiario.dll
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/bin/Debug/net6.0/FaturamentoDiario.pdb
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.AssemblyInfo.cs
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.dll
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/ref/FaturamentoDiario.dll
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.pdb
+/home/daianarussi/Documentos/DesafioGupy/FaturamentoDiario/obj/Debug/net6.0/FaturamentoDiario.genruntimeconfig.cache
